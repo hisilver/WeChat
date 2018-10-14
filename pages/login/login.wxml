@@ -1,0 +1,8 @@
+<!--pages/login/login.wxml-->
+<image src='../images/welcome.jpg'></image>
+
+<text class='username'>用户名</text>
+<input class='input' bindinput='usernameInput'></input>
+<text class='password'>密码</text>
+<input class='input' password="true" bindinput='passwordInput'></input>
+<button class='bt' bindtap='login'>登录</button>

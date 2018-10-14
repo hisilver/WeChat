@@ -1,0 +1,6 @@
+<view class="index-container">
+  <image src="https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1537069134332&di=14aebfda2e3c93930a6cf814f8759f6c&imgtype=0&src=http%3A%2F%2Fimgsrc.baidu.com%2Fimage%2Fc0%253Dshijue1%252C0%252C0%252C294%252C40%2Fsign%3D2a8312c7bcfd5266b3263457c371fd5e%2Fd1160924ab18972b7f4f1ee6eccd7b899e510aa0.jpg"></image>
+  <view class="nickname">
+  user center
+  </view>
+  </view>

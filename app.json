@@ -1,0 +1,23 @@
+{
+  "pages":[
+    "feedback/feedback",
+    "pages/feedback/feedback",
+    "pages/index/index",
+    "pages/login/login",
+    "pages/user/user",
+    "pages/logs/logs"
+    
+   
+  ],
+  "window":{
+    "backgroundTextStyle":"light",
+    "navigationBarBackgroundColor": "#eee",
+    "navigationBarTitleText": "记事本V1.0",
+    "navigationBarTextStyle":"black",
+    "backgroundColor": "#333",
+    "enablePullDownRefresh":true,
+    "onReachBottomDistance":true
+  }
+ 
+
+}
